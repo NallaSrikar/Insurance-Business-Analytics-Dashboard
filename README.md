@@ -46,7 +46,8 @@ Calculations: DAX (Data Analysis Expressions) for custom KPIs
 Techniques: Time-Intelligence functions, dynamic tooltips, interactive filtering (cross-highlighting), and custom visual formatting.
 
 **DASHBOARD PREVIEW**
-![page 1](assets/images/insurance-dashboard/page1-Insurence Executive Overview.JPG)
+
+![page](assets/images/insurance-dashboard/page1-Insurence_Executive_Overview.JPG)
 ![page 2](assets/images/insurance-dashboard/page2-Tooltip.JPG)
 ![page 3](assets/images/insurance-dashboard/page3-Claim Analysis.JPG)
 ![page 4](assets/images/insurance-dashboard/page4-Agent Performance.JPG)
