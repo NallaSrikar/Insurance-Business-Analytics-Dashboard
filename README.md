@@ -21,7 +21,9 @@ By tracking a staggering **106.44%** Loss Ratio, this analysis serves as a criti
 ## **DATA MODEL**
 
 **Fact Tables:** Claims, Premiums, Policies
+
 **Dimension Tables:** Customers, Agents, Policy, Regions
+
 **Schema:** Star Schema
 
 ## **KEY BUSINESS INSIGHTS**
