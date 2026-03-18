@@ -1,12 +1,12 @@
 # Insurance-Business-Analytics-Dashboard
 Designed a Power BI Banking dashboard delivering insights on loans, deposits and customer behaviour to support strategic decision making.
 
-##**OVERVIEW**
+## **OVERVIEW**
 
 This project presents a comprehensive, interactive Business Intelligence dashboard designed to monitor and analyze critical KPIs within an insurance firm. The primary objective is to provide executive stakeholders with actionable insights into revenue generation (premiums), operational efficiency (claims processing), sales effectiveness (agent performance), and portfolio health (risk and retention).
 By tracking a staggering **106.44%** Loss Ratio, this analysis serves as a critical diagnostic tool to identify areas of revenue leakage, optimize underwriting strategies, and improve overall profitability.
 
-##**PROJECT OBJECTIVES**
+## **PROJECT OBJECTIVES**
 
 **Monitor Profitability:** Track the Loss Ratio to identify revenue leakage and unprofitable policy types.
 
@@ -18,13 +18,13 @@ By tracking a staggering **106.44%** Loss Ratio, this analysis serves as a criti
 
 **Optimize Product Strategy**: Compare performance across regions and policy types to guide pricing and underwriting.
 
-##**DATA MODEL**
+## **DATA MODEL**
 
 **Fact Tables:** Claims, Premiums, Policies
 **Dimension Tables:** Customers, Agents, Policy, Regions
 **Schema:** Star Schema
 
-##**KEY BUSINESS INSIGHTS**
+## **KEY BUSINESS INSIGHTS**
 
 As a data analyst, I extracted the following critical insights from the dashboard:
 
@@ -38,7 +38,7 @@ As a data analyst, I extracted the following critical insights from the dashboar
 
 **Regional Discrepancies:** The North region generates the highest premium but also incurs the highest total claim amounts, indicating a high-volume, high-risk market.
 
-##**Potential Next Steps for the Business**
+## **Potential Next Steps for the Business**
 
 **Underwriting Review:** Immediately investigate the pricing models for policy types showing loss ratios above 100%.
 
@@ -46,7 +46,7 @@ As a data analyst, I extracted the following critical insights from the dashboar
 
 **Customer Success:** Investigate the massive drop in active policies in **2024** and streamline the claims process to improve the **54%** approval rate, reducing customer churn.
 
-##**TECH STACK & METHODOLOGIES**
+## **TECH STACK & METHODOLOGIES**
 
 **Tools**: Power BI, Excel
 
@@ -56,7 +56,7 @@ As a data analyst, I extracted the following critical insights from the dashboar
 
 **Techniques**: Time-Intelligence functions, dynamic tooltips, interactive filtering (cross-highlighting), and custom visual formatting.
 
-##**DASHBOARD PREVIEW**
+## **DASHBOARD PREVIEW**
 
 ![page](assets/images/insurance-dashboard/page1-Insurence_Executive_Overview.JPG)
 ![page 2](assets/images/insurance-dashboard/page2-Tooltip.JPG)
@@ -64,6 +64,6 @@ As a data analyst, I extracted the following critical insights from the dashboar
 ![page 4](assets/images/insurance-dashboard/page4-Agent_Performance.JPG)
 ![page 5](assets/images/insurance-dashboard/page5-Risk&Retention.JPG)
 
-##**LIVE REPORT LINK**
+## **LIVE REPORT LINK**
 
-[view like report](https://app.powerbi.com/view?r=eyJrIjoiYzQ1ZjZjNGEtMWRhYi00YmY2LTliOGItNjcyOTI3MTIwNzIwIiwidCI6ImZlZDkxNzcyLWMyZDItNGNlYS05ZmY5LWMwZmY3ZDdkMGU1NyJ9)
+[view live report](https://app.powerbi.com/view?r=eyJrIjoiYzQ1ZjZjNGEtMWRhYi00YmY2LTliOGItNjcyOTI3MTIwNzIwIiwidCI6ImZlZDkxNzcyLWMyZDItNGNlYS05ZmY5LWMwZmY3ZDdkMGU1NyJ9)
