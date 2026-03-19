@@ -60,11 +60,26 @@ As a data analyst, I extracted the following critical insights from the dashboar
 
 ## **DASHBOARD PREVIEW**
 
+**Insurence_Executive_Overview**
+
 ![page](assets/images/insurance-dashboard/page1-Insurence_Executive_Overview.JPG)
+
+**Tooltip**
+
 ![page 2](assets/images/insurance-dashboard/page2-Tooltip.JPG)
+
+**Claim_Analysis**
+
 ![page 3](assets/images/insurance-dashboard/page3-Claim_Analysis.JPG)
+
+**Agent_Performance**
+
 ![page 4](assets/images/insurance-dashboard/page4-Agent_Performance.JPG)
+
+**Risk&Retention**
+
 ![page 5](assets/images/insurance-dashboard/page5-Risk&Retention.JPG)
+
 
 ## **LIVE REPORT LINK**
 
